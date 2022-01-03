@@ -123,3 +123,4 @@ doc/source/savefig/
 #virtual-env
 pandas-venv/
 .venv/
+env/
